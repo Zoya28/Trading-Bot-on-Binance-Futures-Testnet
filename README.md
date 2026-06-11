@@ -110,12 +110,7 @@ trading_bot/
 
 Logs are saved to `logs/trading_bot.log` automatically.
 - Console shows INFO and above
-- Log file captures DEBUG (full request/response details)
+- Log file captures DEBUG
 
 ---
 
-## Assumptions
-
-- Only USDT-M Futures Testnet is supported
-- Credentials are passed via environment variables (not hardcoded)
-- `timeInForce` is set to `GTC` (Good Till Cancel) for all LIMIT orders
