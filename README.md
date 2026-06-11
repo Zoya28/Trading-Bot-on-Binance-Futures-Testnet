@@ -8,7 +8,7 @@ A simple Python CLI trading bot for Binance Futures Testnet (USDT-M).
 
 ### 1. Get Testnet API Keys
 1. Go to [https://testnet.binancefuture.com](https://testnet.binancefuture.com)
-2. Sign in with GitHub and click **"Generate API Key"**
+2. Sign in and **"Generate API Key"**
 3. Copy your **API Key** and **Secret Key**
 
 ### 2. Install Dependencies
